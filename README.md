@@ -148,3 +148,4 @@ Make the application responsive and mobile-friendly using CSS frameworks like Bo
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Copyright (c) 2023 Martin Cespedes. All rights reserved.
+This project is licensed under the terms of the MIT license.
