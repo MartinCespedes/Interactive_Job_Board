@@ -28,7 +28,10 @@
 
 - User authentication: 
 ```
-Implement a user authentication system using a popular library like Passport.js or Firebase Authentication. Allow users to sign up and log in to access different features.
+Implement a user authentication system using a popular library like Passport.js or Firebase Authentication. 
+```
+```
+Allow users to sign up and log in to access different features.
 ```
 
 - Job Search: 
