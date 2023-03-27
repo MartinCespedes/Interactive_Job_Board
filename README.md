@@ -3,7 +3,7 @@
 
 - An interactive job board web application that allows users to search and apply for jobs. 
 
-- This project will showcase my abilities with  both front-end and back-end technologies.
+- This project will showcase my abilities with both front-end and back-end technologies.
 
 ## Contents
 
@@ -27,11 +27,58 @@
 
 ## Description
 
+Interactive Job Board: A full-stack web application connecting job seekers and companies. Features user authentication, job search with filters, application management, and responsive design.
 
 ## User Story
 
+- As a job seeker using the Interactive Job Board. 
+
+- I want to be able to create an account, log in, search for jobs using filters. 
+
+- Apply for jobs directly with my resume and a cover letter and manage my profile with personal information and relevant links, so that I can efficiently find and apply to suitable job opportunities.
+
 
 ## Installation
+
+- Must have Node.js, npm (or yarn), and your preferred database installed, follow these steps:
+
+1.  Clone the repository
+```
+git clone https://github.com/MartinCespedes/Interactive_Job_Board.git
+```
+
+2. Navigate to the project directory:
+```
+cd Interactive_Job_Board
+```
+
+3. Install the dependencies for the back-end:
+```
+npm i
+```
+
+4. Configure the environment variables for the back-end (in .env file):
+```
+DATABASE_URL='your_database_connection_string'
+JWT_SECRET='your_jwt_secret_key'
+```
+
+5. Open another terminal and navigate to the project directory.
+
+6. Install the dependencies for the front-end:
+```
+npm install
+```
+
+7. Start the server:
+```
+npm start
+```
+
+8. Open your browser and navigate to:
+```
+ http://localhost:3000 to view the application.
+```
 
 
 ## Usage
