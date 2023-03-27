@@ -1,10 +1,5 @@
 # Interactive Job Board
 
-
-- An interactive job board web application that allows users to search and apply for jobs. 
-
-- This project will showcase my abilities with both front-end and back-end technologies.
-
 ## Contents
 
 [Description](#description)
@@ -27,7 +22,9 @@
 
 ## Description
 
-Interactive Job Board: A full-stack web application connecting job seekers and companies. Features user authentication, job search with filters, application management, and responsive design.
+- A full-stack web application connecting job seekers and companies. 
+- Features user authentication, job search with filters, application management, and responsive design.
+- This project will showcase my abilities with both front-end and back-end technologies.
 
 ## User Story
 
