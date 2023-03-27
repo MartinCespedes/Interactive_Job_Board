@@ -15,14 +15,31 @@
 
 [Usage](#usage)
 
-[Resources & Credit](#resourcescredit)
-
 [Key Features](#key-features)
+
+[Technologies](#technologies)
 
 [Application Screenshot Preview](#application-screenshot-preview)
 
+[Resources & Credit](#resourcescredit)
+
 [License](#license)
 
+## Description
+
+
+## User Story
+
+
+## Installation
+
+
+## Usage
+
+- The Interactive Job Board is a web application that allows job seekers and companies to connect in a user-friendly environment. 
+- Job seekers can search and apply for jobs, while companies can post job listings and manage applications. 
+
+- The application also features an admin dashboard for overall management.
 
 ## Key Features
 
@@ -69,6 +86,13 @@ Make the application responsive and mobile-friendly using CSS frameworks like Bo
 - ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+
+## Application Screenshot Preview
+
+![App Screenshot-1]()
+![App Screenshot-2]()
+![App Screenshot-3]()
+![App Screenshot-4]()
 
 ## Resources & Credit
 
