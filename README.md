@@ -28,11 +28,15 @@
 
 ## User Story
 
-- As a job seeker using the Interactive Job Board. 
+- AS a job seeker using the Interactive Job Board. 
 
 - I want to be able to create an account, log in, search for jobs using filters. 
 
-- Apply for jobs directly with my resume and a cover letter and manage my profile with personal information and relevant links, so that I can efficiently find and apply to suitable job opportunities.
+- Apply for jobs directly with my resume and a cover letter.  
+
+- Manage my profile with personal information and relevant links 
+
+- So that I can efficiently find and apply to suitable job opportunities.
 
 
 ## Installation
