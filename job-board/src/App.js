@@ -1,6 +1,5 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-
+import React from "react";
+import { Link } from "react-router-dom";
 
 function App() {
   return (
@@ -15,7 +14,19 @@ function App() {
             <li>
               <Link to="/login">Login</Link>
             </li>
-            {/* Add more navigation links for other components as needed */}
+            <li>
+              <Link to="/jobs">Jobs</Link>
+            </li>
+            <li>
+              <Link to="/post-job">Post a Job</Link>
+            </li>
+            <li>
+              <Link to="/profile">Profile</Link>
+            </li>
+            <li>
+              <Link to="/admin">Admin Dashboard</Link>
+            </li>
+            {/* more links if needed */}
           </ul>
         </nav>
       </header>
