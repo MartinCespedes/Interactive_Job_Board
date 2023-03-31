@@ -41,7 +41,7 @@
 
 ## Installation
 
-- Must have Node.js, npm (or yarn), and your preferred database installed, follow these steps:
+-- Must have Node.js, npm (or yarn), and your preferred database installed, follow these steps:
 
 1.  Clone the repository
 ```
