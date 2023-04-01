@@ -1,12 +1,14 @@
-import React from "react";
+import React from 'react';
 
 const Profile = () => {
-  // Fetch user profile data and display it here
-
   return (
-    <div>
-      <h2>User Profile</h2>
-      {/* Render user profile data */}
+    <div className="bg-gray-100 min-h-screen">
+      <div className="container mx-auto py-10">
+        <h1 className="text-2xl font-bold mb-4">Profile</h1>
+        <div className="bg-white p-4 rounded-lg shadow-md">
+          {/* Add your profile information and components here */}
+        </div>
+      </div>
     </div>
   );
 };

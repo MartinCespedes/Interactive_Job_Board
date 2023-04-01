@@ -1,14 +1,16 @@
-import React from "react";
+import React from 'react';
 
-const AdminDashboard = () => {
-  // Fetch admin-related data and display it here
-
+const Adminboard = () => {
   return (
-    <div>
-      <h2>Admin Dashboard</h2>
-      {/* Render admin dashboard data */}
+    <div className="bg-gray-100 min-h-screen">
+      <div className="container mx-auto py-10">
+        <h1 className="text-2xl font-bold mb-4">Admin Dashboard</h1>
+        <div className="bg-white p-4 rounded-lg shadow-md">
+          {/* Add your admin dashboard components here */}
+        </div>
+      </div>
     </div>
   );
 };
 
-export default AdminDashboard;
+export default Adminboard;
