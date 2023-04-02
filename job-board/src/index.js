@@ -8,6 +8,7 @@ import JobList from "./components/JobList";
 import JobForm from "./components/JobForm";
 import Profile from "./components/Profile";
 import Adminboard from "./components/Adminboard";
+import SignUp from "./components/SignUp";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -19,6 +20,7 @@ ReactDOM.render(
         <Route path="/post-job" element={<JobForm />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/admin" element={<Adminboard />} />
+        <Route path="/signup" element={<SignUp />} />
         {/* Add more routes for other components as needed */}
       </Routes>
     </Router>
