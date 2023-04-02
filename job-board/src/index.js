@@ -18,9 +18,8 @@ ReactDOM.render(
         <Route
           path="/"
           element={
-            <Layout>
               <App />
-            </Layout>
+           
           }
         />
         <Route
