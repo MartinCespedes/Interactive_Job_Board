@@ -99,7 +99,7 @@ npm start
 - User authentication:
 
 ```
-Implement user authentication system using a popular library like Passport.js or Firebase Authentication.
+Implement user authentication system using a popular library like Passport.js/Firebase Authentication.
 ```
 
 ```
