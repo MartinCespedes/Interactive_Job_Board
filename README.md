@@ -40,7 +40,7 @@
 
 ## Installation
 
--- Must have Node.js, npm (or yarn), and your preferred database installed, follow these steps:
+- Must have Node.js, npm (or yarn), and your preferred database installed, follow these steps:
 
 1.  Clone the repository
 
@@ -139,7 +139,7 @@ Create an admin dashboard to manage users, job listings, and applications.
 - Responsive Design:
 
 ```
-Make the application responsive and mobile-friendly using CSS frameworks like Bootstrap or Tailwind CSS.
+Make the application responsive & mobile-friendly using CSS frameworks like Bootstrap or Tailwind CSS.
 ```
 
 ## Technologies
