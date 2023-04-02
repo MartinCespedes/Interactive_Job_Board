@@ -43,11 +43,22 @@ const Login = () => {
           </div>
           <button
             type="submit"
-            className="w-full bg-indigo-500 text-white p-2 rounded hover:bg-indigo-600"
+            className="w-full bg-indigo-500 text-white p-2 rounded hover:bg-indigo-600 mb-4"
           >
             Log in
           </button>
         </form>
+        <div className="text-center">
+          <a href="#" className="text-indigo-500 hover:text-indigo-600">
+            Forgot password?
+          </a>
+        </div>
+        <div className="mt-4 text-center">
+          Don't have an account?{' '}
+          <a href="#" className="text-indigo-500 hover:text-indigo-600">
+            Sign up
+          </a>
+        </div>
       </div>
     </div>
   );
