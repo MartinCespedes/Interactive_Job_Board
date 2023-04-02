@@ -152,10 +152,10 @@ Make the application responsive and mobile-friendly using CSS frameworks like Bo
 
 ## Application Screenshot Preview
 
-![App Screenshot-1]()
-![App Screenshot-2]()
-![App Screenshot-3]()
-![App Screenshot-4]()
+![App Screenshot-1](/job-board/src/assets/Interactive_Board_1.png)
+![App Screenshot-2](/job-board/src/assets/Interactive_Board_2.png)
+![App Screenshot-3](/job-board/src/assets/Interactive_Board_3.png)
+![App Screenshot-4](/job-board/src/assets/Interactive_Board_4.png)
 
 ## Resources & Credit
 
