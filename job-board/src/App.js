@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 function App() {
   return (
@@ -9,34 +9,59 @@ function App() {
         <nav>
           <ul className="flex justify-around items-center p-4">
             <li>
-              <Link to="/" className="hover:text-yellow-400">
+              <NavLink
+                exact
+                to="/"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Home
-              </Link>
+              </NavLink>
             </li>
             <li>
-              <Link to="/login" className="hover:text-yellow-400">
+              <NavLink
+                to="/login"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Login
-              </Link>
+              </NavLink>
             </li>
             <li>
-              <Link to="/jobs" className="hover:text-yellow-400">
+              <NavLink
+                to="/jobs"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Jobs
-              </Link>
+              </NavLink>
             </li>
             <li>
-              <Link to="/post-job" className="hover:text-yellow-400">
+              <NavLink
+                to="/post-job"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Post a Job
-              </Link>
+              </NavLink>
             </li>
             <li>
-              <Link to="/profile" className="hover:text-yellow-400">
+              <NavLink
+                to="/profile"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Profile
-              </Link>
+              </NavLink>
             </li>
             <li>
-              <Link to="/admin" className="hover:text-yellow-400">
+              <NavLink
+                to="/admin"
+                className="border-b-2 border-transparent hover:border-white py-1"
+                activeClassName="border-b-2 border-white"
+              >
                 Admin Dashboard
-              </Link>
+              </NavLink>
             </li>
             {/* more links if needed */}
           </ul>
